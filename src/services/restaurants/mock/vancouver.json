@@ -1,0 +1,930 @@
+{
+  "results":[
+    {
+      "fsq_id": "50d4bd11e4b0b55bb4b657a3",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Desserts"
+        },
+        {
+          "id": 10,
+          "name": "Drinks"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/19895354_NfkicJ_eN-aqKBhCzj5YiVkDxIm30q2frfC6JNQJAHE.jpg",
+      "chains": [],
+      "distance": 865,
+      "geocodes": {
+        "main": {
+          "latitude": 49.2664033736241,
+          "longitude": -123.14074768329154
+        }
+      },
+      "location": {
+        "address": "2150 Fir St",
+        "country": "CA",
+        "cross_street": "at W 6th Ave",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "West Side"
+        ],
+        "postcode": "V6J 3B5",
+        "region": "BC"
+      },
+      "name": "Beaucoup Bakery & Cafe",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "56e71692498e78e8143f679d",
+      "categories": [
+        {
+          "id": 12,
+          "name": "Taco"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/41658_pnYjErlDjkytll9xPcNyoCTjkZ7GdZrrsLjOeo27He8.jpg",
+      "chains": [],
+      "distance": 1253,
+      "geocodes": {
+        "main": {
+          "latitude": 49.276433,
+          "longitude": -123.119389
+        }
+      },
+      "location": {
+        "address": "1025 Mainland St",
+        "country": "CA",
+        "cross_street": "Nelson",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Gastown-Yaletown"
+        ],
+        "postcode": "V6B 5P9",
+        "region": "BC"
+      },
+      "name": "Tacofino",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+     {
+      "fsq_id": "533a2e6a498e8d500ab2b431",
+      "categories": [
+        {
+          "id": 5,
+          "name": "Burgers"
+        }
+      ],
+      "photo": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+      "chains": [],
+      "distance": 555,
+      "geocodes": {
+        "main": {
+          "latitude": 49.279750528555184,
+          "longitude": -123.11458390724977
+        }
+      },
+      "location": {
+        "address": "700 Hamilton St",
+        "address_extended": "# 10",
+        "country": "CA",
+        "cross_street": "Georgia St.",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Central"
+        ],
+        "postcode": "V6B 2R5",
+        "region": "BC"
+      },
+      "name": "Triple O's",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4aa6b6b2f964a520c34a20e3",
+      "categories": [
+        {
+          "id": 5,
+          "name": "Burgers"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/23310457_bpFS2kqHWB0dSBjkEYxAB12MyH5Wn5qou2i4Ma_tkec.jpg",
+      "chains": [],
+      "distance": 300,
+      "geocodes": {
+        "main": {
+          "latitude": 49.28009840863881,
+          "longitude": -123.1217074295526
+        }
+      },
+      "location": {
+        "address": "910 Granville St",
+        "country": "CA",
+        "cross_street": "at Smithe",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "V6Z 1L2",
+        "region": "BC"
+      },
+      "name": "Roxy Burger",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4aa6b883f964a520cd4a20e3",
+      "categories": [
+        {
+          "id": 5,
+        "name": "Burgers"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/1831678_KT75LzUtpV40n_-ljYAQlOhc1FvfE6IkKd8VcZWhWbc.jpg",
+      "chains": [],
+      "distance": 757,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27958028470979,
+          "longitude": -123.13000883851153
+        }
+      },
+      "location": {
+        "address": "1030 Davie St",
+        "country": "CA",
+        "cross_street": "btw Burrard St & Thurlow St",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "West End"
+        ],
+        "postcode": "V6E 1M3",
+        "region": "BC"
+      },
+      "name": "Vera's Burger Shack",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4fac04c2e4b0685b5b224d9d",
+      "categories": [
+        {
+          "id": 1,
+          "name": "Rice"
+        },
+        {
+          "id": 8,
+          "name": "Sushi"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/7945981_-mvBti1lbe6qe1L4iD006RTppoYuqZmc_Ro-aO4QILE.jpg",
+      "chains": [],
+      "distance": 1094,
+      "geocodes": {
+        "main": {
+          "latitude": 49.275341077987406,
+          "longitude": -123.12085632170566
+        }
+      },
+      "location": {
+        "address": "1118 Mainland St",
+        "country": "CA",
+        "cross_street": "at Helmcken St.",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Central"
+        ],
+        "postcode": "V6B 2T9",
+        "region": "BC"
+      },
+      "name": "Minami Restaurant",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4aa942d5f964a520ba5220e3",
+      "categories": [
+        {
+          "id": 10,
+          "name": "Drinks"
+        },
+        {
+          "id": 8,
+          "name": "Sushi"
+        },
+        {
+            "id": 13,
+            "name": "Seafood"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/3276860_FlaeMZsGhNCNOmIQ3IzAjmk4366sUKgoaBIZEKxTwIc.jpg",
+      "chains": [],
+      "distance": 1164,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27616536589696,
+          "longitude": -123.12110447015738
+        }
+      },
+      "location": {
+        "address": "1095 Hamilton St",
+        "country": "CA",
+        "cross_street": "at Helmcken St",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Yaletown"
+        ],
+        "postcode": "V6B 5T4",
+        "region": "BC"
+      },
+      "name": "Blue Water Cafe + Raw Bar",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "52100563498edca0c55931b1",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Desserts"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/13006584_ulSP-hiu54Wkn5F-dzYpYTLBX7m_AqLDwcpulwU0fcQ.jpg",
+      "chains": [],
+      "distance": 791,
+      "geocodes": {
+        "main": {
+          "latitude": 49.272432929870185,
+          "longitude": -123.13586533069609
+        }
+      },
+      "location": {
+        "address": "1680 Johnston St",
+        "country": "CA",
+        "cross_street": "at Duranleau St",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Fairview-Granville Island"
+        ],
+        "postcode": "V6H 3S2",
+        "region": "BC"
+      },
+      "name": "A Bread Affair",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "559ff1da498e818b3ace65a4",
+      "categories": [
+        {
+          "id": 13,
+          "name": "Seafood"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/510485931_fcAJO3f21qqZKpX5Cxhh0r6NYjcIZW5XIA6vdnD6bSs.jpg",
+      "chains": [],
+      "distance": 809,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27377034789741,
+          "longitude": -123.13288606975158
+        }
+      },
+      "location": {
+        "address": "1600 Howe St",
+        "address_extended": "# 2",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Central"
+        ],
+        "postcode": "V6Z 2L9",
+        "region": "BC"
+      },
+      "name": "Ancora Waterfront Dining and Patio",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4aa7ec7cf964a520064e20e3",
+      "categories": [
+        {
+          "id": 2,
+          "name": "Noodles"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/541942_Ud4Xjs4h-gqAE5UTcQsd1_5dW9Ybnm8vUfdr2r1cKQk.jpg",
+      "chains": [],
+      "distance": 1138,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27484877745373,
+          "longitude": -123.11877379671792
+        }
+      },
+      "location": {
+        "address": "1088 Cambie St",
+        "country": "CA",
+        "cross_street": "at Pacific Blvd.",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Yaletown"
+        ],
+        "postcode": "V6B 6J5",
+        "region": "BC"
+      },
+      "name": "La Terrazza",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "546cfab4498e31fa52b38545",
+      "categories": [
+        {
+          "id": 9,
+        "name": "Desserts"
+        },
+        {
+          "id": 10,
+        "name": "Drinks"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/25146292_5K0akVcNqkgupMxCmOnoObNJ-CZvVEfK5joPSORuOWg.jpg",
+      "chains": [],
+      "distance": 1190,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27651218171028,
+          "longitude": -123.12133631376243
+        }
+      },
+      "location": {
+        "address": "1088 Homer St",
+        "country": "CA",
+        "cross_street": "btwn Helmcken & Nelson",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Central"
+        ],
+        "postcode": "V6B 2W9",
+        "region": "BC"
+      },
+      "name": "Small Victory Bakery",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "52b17ab1498eeab2c01ede0e",
+      "categories": [
+        {
+          "id": 8,
+          "name": "Sushi"
+        },
+        {
+          "id": 1,
+          "name": "Rice"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/9825632_0UTxBY-P_ZguaUPK1aO3zuI9tTFsYi8VMTzzqxIzD1w.jpg",
+      "chains": [],
+      "distance": 468,
+      "geocodes": {
+        "main": {
+          "latitude": 49.263361993540684,
+          "longitude": -123.1255335332362
+        }
+      },
+      "location": {
+        "address": "950 Broadway W",
+        "address_extended": "# 201",
+        "country": "CA",
+        "cross_street": "at Laurel St",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "West Side"
+        ],
+        "postcode": "V5Z 1K7",
+        "region": "BC"
+      },
+      "name": "Gyu-Kaku BBQ",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4e223f06d4c0d32590f80ff4",
+      "categories": [
+        {
+          "id": 12,
+          "name": "Taco"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/50676042_xSkB-OefIpA82HDWAkLAo4BfJwxH3h8zgsxRMZJDjuQ.jpg",
+      "chains": [],
+      "distance": 1225,
+      "geocodes": {
+        "main": {
+          "latitude": 49.263534,
+          "longitude": -123.112795
+        }
+      },
+      "location": {
+        "address": "2450 Yukon St",
+        "country": "CA",
+        "cross_street": "at W Broadway",
+        "locality": "Vancouver",
+        "postcode": "V5Y 0A4",
+        "region": "BC"
+      },
+      "name": "La Taqueria Pinche Taco Shop",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4aa74bb8f964a520a14c20e3",
+      "categories": [
+        {
+          "id": 13,
+          "name": "Seafood"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/21729_kJNmiNJNeQhJA37MZqBcPgF4vcuc_-yc-blIqg-eD0A.jpg",
+      "chains": [],
+      "distance": 917,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27443610411226,
+          "longitude": -123.12337936574245
+        }
+      },
+      "location": {
+        "address": "1228 Hamilton St",
+        "address_extended": "# 405",
+        "country": "CA",
+        "cross_street": "at Drake St",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "V6B 6L2",
+        "region": "BC"
+      },
+      "name": "Rodney's Oyster House",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "50574432e4b0e7a978f3c474",
+      "categories": [
+        {
+          "id": 6,
+          "name": "Pizza"
+        },
+        {
+          "id": 2,
+          "name": "Noodles"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/11139321_bG353PTxnxu3u0dRwYhVZFd_SOjFJ1DxHIv03VWa6NU.jpg",
+      "chains": [],
+      "distance": 1253,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27673436926522,
+          "longitude": -123.12012815066782
+        }
+      },
+      "location": {
+        "address": "1011 Hamilton St",
+        "country": "CA",
+        "cross_street": "btwn Nelson & Helmcken",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Central"
+        ],
+        "postcode": "V6B 5T4",
+        "region": "BC"
+      },
+      "name": "The Parlour",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4c75baefdb52b1f7c5b979dc",
+      "categories": [
+        {
+          "id": 10,
+        "name": "Drinks"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/40562157_SkklppJPca8T5raa9kXDzOd1_sDEgIJDDAz6esIeWpE.jpg",
+      "chains": [],
+      "distance": 867,
+      "geocodes": {
+        "main": {
+          "latitude": 49.264825384675746,
+          "longitude": -123.11734283669146
+        }
+      },
+      "location": {
+        "address": "2310 Ash St",
+        "country": "CA",
+        "cross_street": "at W 7th Ave",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Fairview"
+        ],
+        "postcode": "V5Z 3C2",
+        "region": "BC"
+      },
+      "name": "Caffe Cittadella",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "5ba59a6bfebf31002cb54fa0",
+      "categories": [
+        {
+          "id": 10,
+          "name": "Drinks"
+        },
+        {
+          "id": 9,
+          "name": "Desserts"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/11986956_4M2c_qHJxYilWXQgPkD826mKdmtZ9TUPOKYVxfctqfE.jpg",
+      "chains": [],
+      "distance": 1198,
+      "geocodes": {
+        "main": {
+          "latitude": 49.25827550594759,
+          "longitude": -123.13857972621918
+        }
+      },
+      "location": {
+        "address": "3070 Granville St",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Fairview-Granville Island"
+        ],
+        "postcode": "V6H 3J8",
+        "region": "BC"
+      },
+      "name": "Small Victory",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4e2901b5b61c41a2f8a38ab3",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Diner"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/2123117_l-7wusyBcwyPXoB5XLJCJ8MBp96EDRa1W_v4gCeUZCw.jpg",
+      "chains": [],
+      "distance": 1038,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27526846272362,
+          "longitude": -123.12221995760233
+        }
+      },
+      "location": {
+        "address": "1168 Hamilton St",
+        "address_extended": "# 203",
+        "country": "CA",
+        "cross_street": "btwn Davie & Helmcken St",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Central"
+        ],
+        "postcode": "V6B 2S2",
+        "region": "BC"
+      },
+      "name": "The Flying Pig Yaletown",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4c8af50675ba9c746e5b555c",
+      "categories": [
+        {
+          "id": 8,
+          "name": "Sushi"
+        },
+        {
+          "id": 1,
+          "name": "Rice"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/26800043_rajujcOWeUH0WOxOgxnxzsihy55WdzXP1AAo5RWlQo8.jpg",
+      "chains": [],
+      "distance": 1005,
+      "geocodes": {
+        "main": {
+          "latitude": 49.263505856014774,
+          "longitude": -123.14164280891418
+        }
+      },
+      "location": {
+        "address": "1626W Broadway W",
+        "country": "CA",
+        "cross_street": "btwn Fir & Pine",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Fairview"
+        ],
+        "postcode": "V6J 1X6",
+        "region": "BC"
+      },
+      "name": "Suika",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "5858c69676b8b2540875ab7e",
+      "categories": [
+        {
+          "id": 12,
+          "name": "Taco"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/63598598_Q4aPow8YZkyDcJp_L2LUPw37iCKLWxLi_zZinXtXmLk.jpg",
+      "chains": [],
+      "distance": 1261,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27805439644988,
+          "longitude": -123.12496542437808
+        }
+      },
+      "location": {
+        "address": "1117 Granville St",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "V6Z 1M1",
+        "region": "BC"
+      },
+      "name": "The Pawn Shop",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4b75f892f964a52029332ee3",
+      "categories": [
+        {
+          "id": 7,
+          "name": "Snacks"
+        },
+        {
+          "id": 9,
+          "name": "Desserts"
+        }
+      ],
+      "photo": "https://res.cloudinary.com/ds4m4cban/image/upload/c_scale,w_697/v1642242052/images/jimmieshop/ce9618fd-5014-4c6a-9217-61cb2b371baa_p8m4ck.jpg",
+      "chains": [],
+      "distance": 751,
+      "geocodes": {
+        "main": {
+          "latitude": 49.272293223975595,
+          "longitude": -123.13527294292463
+        }
+      },
+      "location": {
+        "address": "1689 Johnston St",
+        "address_extended": "# 122",
+        "country": "CA",
+        "cross_street": "in Granville Island Public Market",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Granville Island"
+        ],
+        "postcode": "V6H 3R9",
+        "region": "BC"
+      },
+      "name": "Lee's Donuts of Granville Island",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4aa7f646f964a5203d4e20e3",
+          "name": "Granville Island Public Market"
+        }
+      },
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "58c08103dad2637c812cb222",
+      "categories": [
+        {
+          "id": 9,
+        "name": "Desserts"
+        },
+        {
+          "id": 10,
+        "name": "Drinks"
+        }
+      ],
+      "photo": "https://res.cloudinary.com/ds4m4cban/image/upload/v1642242202/images/jimmieshop/download_h9jmdj.jpg",
+      "chains": [],
+      "distance": 919,
+      "geocodes": {
+        "main": {
+          "latitude": 49.269418214719124,
+          "longitude": -123.14095616340637
+        }
+      },
+      "location": {
+        "address": "1809 Fir St",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "North Vancouver"
+        ],
+        "postcode": "V6J 3A9",
+        "region": "BC"
+      },
+      "name": "Prado Cafe",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4aa967a7f964a5207e5320e3",
+      "categories": [
+        {
+          "id": 13,
+          "name": "Seafood"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/36746889_59X7uGh-szrBgl1O9jYHqRYyxVPqTdqjSYQ8ZyaCI1U.jpg",
+      "chains": [],
+      "distance": 916,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27134765713758,
+          "longitude": -123.1395657499196
+        }
+      },
+      "location": {
+        "address": "1505 1 St Ave W",
+        "country": "CA",
+        "cross_street": "at Fisherman’s Wharf",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Granville Island"
+        ],
+        "postcode": "V6J 1E8",
+        "region": "BC"
+      },
+      "name": "Go Fish",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4ac59991f964a5205bb220e3",
+      "categories": [
+        {
+          "id": 8,
+          "name": "Sushi"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/7075602_zHAy1SPgUEfJF5zTpo09MmS1wx9hU1Zd13fZzXUsIME.jpg",
+      "chains": [],
+      "distance": 811,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27417332259245,
+          "longitude": -123.12682820892486
+        }
+      },
+      "location": {
+        "address": "1375 Richards St",
+        "country": "CA",
+        "cross_street": "at Pacific St.",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "V6B 3G7",
+        "region": "BC"
+      },
+      "name": "Kaide Sushi Bar",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4b16a8ebf964a52094bb23e3",
+      "categories": [
+        {
+          "id": 3,
+          "name": "Sandwich"
+        },
+        {
+          "id": 9,
+          "name": "Desserts"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/308951_vofBhSiSlfI9i7jDuFqn2kBCZdgwy73zxpyFQe75WYg.jpg",
+      "chains": [],
+      "distance": 766,
+      "geocodes": {
+        "main": {
+          "latitude": 49.27246215739913,
+          "longitude": -123.13526507958134
+        }
+      },
+      "location": {
+        "address": "1689 Johnston St",
+        "address_extended": "# 22",
+        "country": "CA",
+        "cross_street": "in Granville Island Public Market",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "West Side"
+        ],
+        "postcode": "V6H 3R9",
+        "region": "BC"
+      },
+      "name": "Siegel's Bagels Ltd",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4aa7f646f964a5203d4e20e3",
+          "name": "Granville Island Public Market"
+        }
+      },
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4aa82326f964a520884f20e3",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Diner"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/207157056_UkXqLJ9M4aVKfxjbFYYZIHZP2tRXK1dLT9oCUpwtvxM.jpg",
+      "chains": [],
+      "distance": 1077,
+      "geocodes": {
+        "main": {
+          "latitude": 49.275522,
+          "longitude": -123.121794
+        }
+      },
+      "location": {
+        "address": "1133 Hamilton St",
+        "country": "CA",
+        "cross_street": "btwn Davie St. & Helmcken St.",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Yaletown"
+        ],
+        "postcode": "V6B 5P6",
+        "region": "BC"
+      },
+      "name": "Cioppino's Mediterranean Grill Inc",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    },
+    {
+      "fsq_id": "4aa81803f964a520454f20e3",
+      "categories": [
+        {
+          "id": 4,
+          "name": "Salads"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/550704274_SPMA5MxeHNQLT1MTqmG-DjEQsKGYMbP5Auo3qZy2U9I.jpg",
+      "chains": [],
+      "distance": 1043,
+      "geocodes": {
+        "main": {
+          "latitude": 49.275925,
+          "longitude": -123.12444
+        }
+      },
+      "location": {
+        "address": "508 Davie St",
+        "country": "CA",
+        "cross_street": "at Richards St",
+        "locality": "Vancouver",
+        "neighborhood": [
+          "Gastown-Yaletown"
+        ],
+        "postcode": "V6B 2G4",
+        "region": "BC"
+      },
+      "name": "Nuba Restaurant Group Inc",
+      "related_places": {},
+      "timezone": "America/Vancouver"
+    }
+  ]
+}

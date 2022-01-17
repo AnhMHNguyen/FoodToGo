@@ -1,0 +1,666 @@
+{
+  "results":[
+    {
+      "fsq_id": "5762cfca498eac69f891202f",
+      "categories": [
+        {
+          "id": 4,
+          "name": "Salads"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/5057057_Qh83NN8JDlvqMLa7tuYXynrg4YAwefBjM6fi_DdPFOM.jpg",
+      "chains": [],
+      "distance": 906,
+      "geocodes": {
+        "main": {
+          "latitude": 45.415917151004216,
+          "longitude": -75.68876741514009
+        }
+      },
+      "location": {
+        "address": "340 Elgin St",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Centre Town"
+        ],
+        "postcode": "K2P 1M6",
+        "region": "ON"
+      },
+      "name": "Pure Kitchen Ottawa",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5739fdb2498ea29b0ec70f01",
+      "categories": [
+        {
+          "id": 2,
+          "name": "Noodles"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/120890924_p7P4jZjPAEUFnRzleFJUWSQmEm7X0D5JtgmYsLFtIA4.jpg",
+      "chains": [],
+      "distance": 334,
+      "geocodes": {
+        "main": {
+          "latitude": 45.41891961658025,
+          "longitude": -75.69932781411583
+        }
+      },
+      "location": {
+        "address": "153 Bank St",
+        "country": "CA",
+        "cross_street": "btwn Slater St & Laurier Ave",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Parliament Hill"
+        ],
+        "postcode": "K1P 5N7",
+        "region": "ON"
+      },
+      "name": "Sansotei Ramen",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "596978b8b3c9615cca41dde5",
+      "categories": [
+        {
+          "id": 12,
+          "name": "Taco"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/149907311_hK42Gn7Efu_n9JbGIRF4qadyKX-hzefkZXoB0kTjoIg.jpg",
+      "chains": [],
+      "distance": 900,
+      "geocodes": {
+        "main": {
+          "latitude": 45.42907228684189,
+          "longitude": -75.69295943403006
+        }
+      },
+      "location": {
+        "address": "81 Clarence St",
+        "country": "CA",
+        "cross_street": "William St",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Lower Town"
+        ],
+        "postcode": "K1N 5P5",
+        "region": "ON"
+      },
+      "name": "El Camino",
+      "related_places": {
+        "parent": {
+          "fsq_id": "5c395c7b4b78c5002c1c183f",
+          "name": "Byward Market"
+        }
+      },
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "54e7e183498e9af95a66b8ad",
+      "categories": [
+        {
+          "id": 2,
+          "name": "Noodles"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/37425305_2oRiR9rjMqd1BXF2GOwKdVEhBoL0bo3m-kzPAI64yBE.jpg",
+      "chains": [],
+      "distance": 557,
+      "geocodes": {
+        "main": {
+          "latitude": 45.41668755348405,
+          "longitude": -75.69904244327336
+        }
+      },
+      "location": {
+        "address": "226 Nepean St",
+        "country": "CA",
+        "cross_street": "Kent St",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Centre Town"
+        ],
+        "postcode": "K2P 0B8",
+        "region": "ON"
+      },
+      "name": "North & Navy",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "51a7d672498e75eb9ec84dab",
+      "categories": [
+        {
+          "id": 12,
+          "name": "Taco"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/120071_wla3B8qV8uJltkbC1ynxDmUZlo1I6UeKQPEEWXX_5q4.jpg",
+      "chains": [],
+      "distance": 1049,
+      "geocodes": {
+        "main": {
+          "latitude": 45.414725,
+          "longitude": -75.687871
+        }
+      },
+      "location": {
+        "address": "380 Elgin St",
+        "country": "CA",
+        "cross_street": "at Gladstone St",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Centre Town"
+        ],
+        "postcode": "K2P 1N1",
+        "region": "ON"
+      },
+      "name": "El Camino",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4d5c80b31e43236a2dd91a83",
+      "categories": [
+        {
+          "id": 4,
+          "name": "Salads"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/30299493_SXtvEdAD3CskH5-AwSjEedYOdlEbH0nvFH_Qcoqme_4.jpg",
+      "chains": [],
+      "distance": 804,
+      "geocodes": {
+        "main": {
+          "latitude": 45.42324960725788,
+          "longitude": -75.68717751083295
+        }
+      },
+      "location": {
+        "address": "50 Laurier Ave E",
+        "address_extended": "# 104",
+        "country": "CA",
+        "cross_street": "Nicholas St",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Congress Centre"
+        ],
+        "postcode": "K1N 1H7",
+        "region": "ON"
+      },
+      "name": "Freshii",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b0a9f40f964a520af2523e3",
+      "categories": [
+        {
+          "id": 6,
+        "name": "Pizza"
+        },
+        {
+            "id": 9,
+            "name": "Desserts"
+        },
+        {
+            "id": 10,
+            "name": "Drinks"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/ZfZwIHrwg-Dic2aBnKXTo9DrnNlKEIaoDTnFzfvVihA.jpg",
+      "chains": [],
+      "distance": 437,
+      "geocodes": {
+        "main": {
+          "latitude": 45.41768026853603,
+          "longitude": -75.69835152471232
+        }
+      },
+      "location": {
+        "address": "195 Bank St",
+        "country": "CA",
+        "cross_street": "at Gloucester St",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Rockcliffe Park"
+        ],
+        "postcode": "K2P 1W7",
+        "region": "ON"
+      },
+      "name": "Bread & Sons Bakery",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "59372e23f1fdaf456f0c9409",
+      "categories": [
+        {
+          "id": 8,
+          "name": "Sushi"
+        },
+        {
+          "id": 5,
+          "name": "Burgers"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/418471248_tR6Tuby0ju7H8tjb07ch16zTU0WMcQKumXcGx16tBc0.png",
+      "chains": [],
+      "distance": 770,
+      "geocodes": {
+        "main": {
+          "latitude": 45.42661562712266,
+          "longitude": -75.69048382260664
+        }
+      },
+      "location": {
+        "address": "50 Rideau St",
+        "address_extended": "E106",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Lower Town"
+        ],
+        "postcode": "K1N 9J7",
+        "region": "ON"
+      },
+      "name": "JOEY Rideau",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4afc9f14f964a520782422e3",
+          "name": "CF Rideau Centre"
+        }
+      },
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5797de16498e74839d164af2",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Diner"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/28689126_wh5qb-bCry7bMEW88T1w5_R76vVyeSviPFgXcTtSqTE.jpg",
+      "chains": [],
+      "distance": 197,
+      "geocodes": {
+        "main": {
+          "latitude": 45.423165374158884,
+          "longitude": -75.69620523362121
+        }
+      },
+      "location": {
+        "address": "62 Sparks St",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Parliament Hill"
+        ],
+        "postcode": "K1P 5A8",
+        "region": "ON"
+      },
+      "name": "Riviera",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4c268297c11dc9b673232924",
+      "categories": [
+        {
+          "id": 5,
+          "name": "Burgers"
+        },
+        {
+          "id": 12,
+          "name": "Taco"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/61277912_QLJR47iUj0psg0sSxNqwi-NTGm81GU-cYXbDthBmfYE.jpg",
+      "chains": [],
+      "distance": 809,
+      "geocodes": {
+        "main": {
+          "latitude": 45.416627250323614,
+          "longitude": -75.68952441215515
+        }
+      },
+      "location": {
+        "address": "296 Elgin St",
+        "country": "CA",
+        "cross_street": "btwn MacLaren St & Gilmour St",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Rockcliffe Park"
+        ],
+        "postcode": "K2P 1M3",
+        "region": "ON"
+      },
+      "name": "Town",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4d4ae93e5129a35dffb548ac",
+      "categories": [
+        {
+          "id": 4,
+          "name": "Salads"
+        },
+        {
+          "id": 1,
+        "name": "Rice"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/20401479_mCtTAQGOJCBiU0AvJbLVMGT1Aetgudib-zG8UEtaAwA.jpg",
+      "chains": [],
+      "distance": 603,
+      "geocodes": {
+        "main": {
+          "latitude": 45.416099365343904,
+          "longitude": -75.69697940555379
+        }
+      },
+      "location": {
+        "address": "258 Bank St",
+        "country": "CA",
+        "cross_street": "Cooper St.",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Centretown"
+        ],
+        "postcode": "K2P 1X4",
+        "region": "ON"
+      },
+      "name": "The Greek Souvlaki Shack",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4edd2e0361af8a14b9a4b0e3",
+      "categories": [
+        {
+          "id": 12,
+          "name": "Taco"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/8136972_fgLEHFTs7d3_dbYa0KI8mJoT7IxiLy1MGcrZcxL5qww.jpg",
+      "chains": [],
+      "distance": 767,
+      "geocodes": {
+        "main": {
+          "latitude": 45.42769969048182,
+          "longitude": -75.69276263275303
+        }
+      },
+      "location": {
+        "address": "55 by Ward Market Sq",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Lower Town"
+        ],
+        "postcode": "K1N 9C3",
+        "region": "ON"
+      },
+      "name": "Corazon de Maiz Mexican Food",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b0586e2f964a520367322e3",
+          "name": "Toy Soldier Market"
+        }
+      },
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b156b09f964a5208fac23e3",
+      "categories": [
+        {
+          "id": 5,
+          "name": "Burgers"
+        },
+        {
+          "id": 7,
+          "name": "Snacks"
+        },
+        {
+          "id": 3,
+          "name": "Sandwich"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/18858257_jVOCrdl08HggAn5bzNpIu688yEsIaBfwOOtc5Dxuyck.jpg",
+      "chains": [],
+      "distance": 1071,
+      "geocodes": {
+        "main": {
+          "latitude": 45.430475472620714,
+          "longitude": -75.69206629666002
+        }
+      },
+      "location": {
+        "address": "137 Murray St",
+        "country": "CA",
+        "cross_street": "at Dalhousie St",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Byward Village"
+        ],
+        "postcode": "K1N 5M7",
+        "region": "ON"
+      },
+      "name": "Chez Lucien",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4afd6c79f964a520ba2722e3",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Desserts"
+        },
+        {
+          "id": 7,
+          "name": "Snacks"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/107305985_vXk7_iVCO808fvGKiEsil2NhyrhMKQPjBLkoXomF540.jpg",
+      "chains": [],
+      "distance": 780,
+      "geocodes": {
+        "main": {
+          "latitude": 45.427388,
+          "longitude": -75.69167
+        }
+      },
+      "location": {
+        "address": "69 George St",
+        "country": "CA",
+        "cross_street": "at William St",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Byward Market - Parliament Hill"
+        ],
+        "postcode": "K1N 1K1",
+        "region": "ON"
+      },
+      "name": "BeaverTails Canada Inc",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "51e494d4498ec07b6d8989eb",
+      "categories": [
+        {
+          "id": 8,
+          "name": "Sushi"      
+        },
+        {
+          "id": 1,
+          "name": "Rice"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/530352030_zKwGbxLvlLAINWI4qQFe0zIbKAqlMPJfgFbHM6niVI4.jpg",
+      "chains": [],
+      "distance": 708,
+      "geocodes": {
+        "main": {
+          "latitude": 45.4169018488365,
+          "longitude": -75.70343588126744
+        }
+      },
+      "location": {
+        "address": "445 Laurier Ave W",
+        "country": "CA",
+        "cross_street": "Lyon St. N.",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Little Italy-Chinatown"
+        ],
+        "postcode": "K1R 0A2",
+        "region": "ON"
+      },
+      "name": "Orchid Sushi",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b0586e1f964a520047322e3",
+      "categories": [
+        {
+          "id": 1,
+          "name": "Rice"
+        },
+        {
+          "id": 8,
+          "name": "Sushi"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/1488196_B2wwOSD4RhDvkYld6WLJ8YDhJPvkL6JC4jaEkgDoCLs.jpg",
+      "chains": [],
+      "distance": 465,
+      "geocodes": {
+        "main": {
+          "latitude": 45.418981,
+          "longitude": -75.692465
+        }
+      },
+      "location": {
+        "address": "175 Lisgar St",
+        "country": "CA",
+        "cross_street": "between Metcalfe and Elgin",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Centretown"
+        ],
+        "postcode": "K2P 0C3",
+        "region": "ON"
+      },
+      "name": "Genji Japanese Restaurant",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "572298b4498e3c813f524b4e",
+      "categories": [
+        {
+          "id": 4,
+          "name": "Salads"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/51823051_WLhlQMaNRSdMzkT_KYWSq1Wp3Q-rphi2kMhxva8dm_A.jpg",
+      "chains": [],
+      "distance": 645,
+      "geocodes": {
+        "main": {
+          "latitude": 45.415847,
+          "longitude": -75.695466
+        }
+      },
+      "location": {
+        "address": "343 Somerset St W",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Rockcliffe Park"
+        ],
+        "postcode": "K2P 0J8",
+        "region": "ON"
+      },
+      "name": "Fairouz",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b68c421f964a520bc8b2be3",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Diner"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/143334306_j7roPp5RydeOzP2AllU-iYt4EEwiak6Xyf_sjAJWsoU.jpg",
+      "chains": [],
+      "distance": 365,
+      "geocodes": {
+        "main": {
+          "latitude": 45.420566678764104,
+          "longitude": -75.69271718622218
+        }
+      },
+      "location": {
+        "address": "150 Elgin St",
+        "country": "CA",
+        "cross_street": "btwn  Gloucester & Laurier",
+        "locality": "Ottawa",
+        "postcode": "K2P 1L4",
+        "region": "ON"
+      },
+      "name": "Beckta Dining & Wine",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "53a1bb05498e57c5a86d23b9",
+      "categories": [
+        {
+          "id": 6,
+          "name": "Pizza"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/164927691_ODKPleE6QMaMbvl4gGuwkx8tdL00bsv3kROmUjhUJZA.jpg",
+      "chains": [],
+      "distance": 933,
+      "geocodes": {
+        "main": {
+          "latitude": 45.42955493951271,
+          "longitude": -75.69364528551125
+        }
+      },
+      "location": {
+        "address": "86 Murray St",
+        "country": "CA",
+        "cross_street": "at Parent St",
+        "locality": "Ottawa",
+        "neighborhood": [
+          "Byward Market - Parliament Hill"
+        ],
+        "postcode": "K1N 5M6",
+        "region": "ON"
+      },
+      "name": "Fiazza Fresh Fired",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    }
+  ]
+}

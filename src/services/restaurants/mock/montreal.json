@@ -1,0 +1,704 @@
+{
+  "results":[
+    {
+      "fsq_id": "56e9cf37498e8d07ac01d8f4",
+      "categories": [
+        {
+          "id": 10,
+          "name": "Drinks"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/65652224_ETskarlx3noswBV51XO_zAA2aelSjar5oP_PmDZ3vkc.jpg",
+      "chains": [],
+      "distance": 632,
+      "geocodes": {
+        "main": {
+          "latitude": 45.50239947219616,
+          "longitude": -73.55920178694564
+        }
+      },
+      "location": {
+        "address": "360 Saint-Jacques Rue",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Montreal",
+        "postcode": "H2Y 1P5",
+        "region": "QC"
+      },
+      "name": "Crew Collective & Café",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "52dd62aa498e2acc7153802e",
+      "categories": [
+        {
+          "id": 10,
+          "name": "Drinks"
+        },
+        {
+          "id": 20,
+          "name": "Diner"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/2732923_7oUSAw9deVJH2YiGB9TLLHvudyK6Oc7js7MOUaP1bN8.jpg",
+      "chains": [],
+      "distance": 485,
+      "geocodes": {
+        "main": {
+          "latitude": 45.505817,
+          "longitude": -73.569302
+        }
+      },
+      "location": {
+        "address": "433 Mayor Rue",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3A 1N9",
+        "region": "QC"
+      },
+      "name": "Café Parvis",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5717aca3498e90419bb45b52",
+      "categories": [
+        {
+          "id": 13,
+         "name": "Seafood"
+        },
+        {
+          "id": 20,
+          "name": "Diner"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/49069374_m03HZqws5r6DGgy1OEd9hNnCMx9izrgJ2BXxAvo3hBg.jpg",
+      "chains": [],
+      "distance": 423,
+      "geocodes": {
+        "main": {
+          "latitude": 45.49979433718035,
+          "longitude": -73.56253320802755
+        }
+      },
+      "location": {
+        "address": "777 Robert-Bourassa Blvd",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Montreal",
+        "postcode": "H3C 3Z7",
+        "region": "QC"
+      },
+      "name": "Portus 360",
+      "related_places": {
+        "parent": {
+          "fsq_id": "540298d0498e884a9a80a906",
+          "name": "evo Square Victoria"
+        }
+      },
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "557c868d498e16ce155406e1",
+      "categories": [
+        {
+          "id": 10,
+          "name": "Drinks"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/47459685_z4bk7-4JBJGWDxSAG_XZKWEcYQL6r86ayA8l1ID7ygc.jpg",
+      "chains": [],
+      "distance": 517,
+      "geocodes": {
+        "main": {
+          "latitude": 45.49848,
+          "longitude": -73.572076
+        }
+      },
+      "location": {
+        "address": "1206 Stanley Rue",
+        "country": "CA",
+        "cross_street": "entre René-Lévesque & Ste-Catherine",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3B 2S7",
+        "region": "QC"
+      },
+      "name": "Melk Bar a Café",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "57a1fa72498ef754ac40c539",
+      "categories": [
+        {
+          "id": 10,
+          "name": "Drinks"
+        },
+        {
+          "id": 3,
+          "name": "Sandwich"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/5057057_UoOxiRLmjSHYjPHNnWMLypGySE7XUb1SHzEZ642QN2g.jpg",
+      "chains": [],
+      "distance": 450,
+      "geocodes": {
+        "main": {
+          "latitude": 45.50452048526137,
+          "longitude": -73.56311578607162
+        }
+      },
+      "location": {
+        "address": "1067 Rue de Bleury",
+        "country": "CA",
+        "cross_street": "De la Gauchetière",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Chinatown"
+        ],
+        "postcode": "H2Z 1N1",
+        "region": "QC"
+      },
+      "name": "La Finca – café & bureau",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5d8e2ecd2190f90008ac61b1",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Diner",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/129918878_M3wGJ10Vn0sjtMTFktD1RI4YUYoE6QiZc2EOruyaAc4.jpg",
+      "chains": [],
+      "distance": 349,
+      "geocodes": {
+        "main": {
+          "latitude": 45.5027544,
+          "longitude": -73.5714715
+        }
+      },
+      "location": {
+        "address": "705 Sainte-Catherine Rue O",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Ville-Marie"
+        ],
+        "postcode": "H3B 4G5",
+        "region": "QC"
+      },
+      "name": "Time Out Market Montréal",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4ad8ade8f964a520a81321e3",
+          "name": "Le Centre Eaton de Montreal"
+        },
+        "children": [
+          {
+            "fsq_id": "5f6bc3034cff341d50d550a3",
+            "name": "Moleskine"
+          }
+        ]
+      },
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b59d9f0f964a520e79b28e3",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Diner"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/744462_ykLxhqX01hGVPd7SprAHU8pKGab8yF5HRB5OA0nxwvc.jpg",
+      "chains": [],
+      "distance": 369,
+      "geocodes": {
+        "main": {
+          "latitude": 45.50040540450307,
+          "longitude": -73.57163553893498
+        }
+      },
+      "location": {
+        "address": "1243 Metcalfe Rue",
+        "country": "CA",
+        "cross_street": "entre Ste-Catherine & René-Lévesque",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3B 2V5",
+        "region": "QC"
+      },
+      "name": "Dominion Square Tavern",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b0f0945f964a5206a5e23e3",
+      "categories": [
+        {
+          "id": 10,
+          "name": "Drinks"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/1951673_3k-Ki7CK5K3UiY8oT6IrQGEPqZy8kZqhZ5Jg9JNRuNU.jpg",
+      "chains": [],
+      "distance": 547,
+      "geocodes": {
+        "main": {
+          "latitude": 45.500434,
+          "longitude": -73.57406
+        }
+      },
+      "location": {
+        "address": "1446 Peel Rue",
+        "country": "CA",
+        "cross_street": "entre St-Catherine & De Maisonneuve",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3A 1S8",
+        "region": "QC"
+      },
+      "name": "Ferreira Café",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4ad4c06df964a5206efa20e3",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Diner"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/r6UWNt74podnAng0i_IjrR4J6hOeBm0p8rqWCX72am8.jpg",
+      "chains": [],
+      "distance": 514,
+      "geocodes": {
+        "main": {
+          "latitude": 45.502998263983685,
+          "longitude": -73.56091841929417
+        }
+      },
+      "location": {
+        "address": "900 Jean-Paul-Riopelle Pl",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Plateau Mont-Royal"
+        ],
+        "postcode": "H2Z 2B2",
+        "region": "QC"
+      },
+      "name": "Toqué",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "550bd362498e0e9050efe954",
+      "categories": [
+        {
+          "id": 12,
+          "name": "Taco"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/22992201_KewKWAriGABD7Iz63P9_CVAxRem-gB85GngnycF87vE.jpg",
+      "chains": [],
+      "distance": 158,
+      "geocodes": {
+        "main": {
+          "latitude": 45.50304462383894,
+          "longitude": -73.5678883120217
+        }
+      },
+      "location": {
+        "address": "1206 Union Ave",
+        "country": "CA",
+        "cross_street": "entre Cathcart & René-Lévesque",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3B 3C4",
+        "region": "QC"
+      },
+      "name": "Escondite",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b0435bcf964a520215222e3",
+      "categories": [
+        {
+          "id": 5,
+          "name": "Burgers"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/XQVFXYV_-DGERHxBf-piA5KXiLcPQFb0gAKhrd61B9g.jpg",
+      "chains": [],
+      "distance": 519,
+      "geocodes": {
+        "main": {
+          "latitude": 45.50632425917815,
+          "longitude": -73.56638244378388
+        }
+      },
+      "location": {
+        "address": "1250 Rue de Bleury",
+        "country": "CA",
+        "cross_street": "at Sainte-Catherine",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Ville-Marie"
+        ],
+        "postcode": "H3B 2W4",
+        "region": "QC"
+      },
+      "name": "Nyks Bistro Pub",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "57fffed138fa0da136f2a8e3",
+      "categories": [
+        {
+          
+        "id": 5,
+        "name": "Burgers"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/1573386_Drllaakegs1JXxGge9mFdlgkvmJf_qNmQMOt1ADQfZ0.jpg",
+      "chains": [],
+      "distance": 678,
+      "geocodes": {
+        "main": {
+          "latitude": 45.507651494601,
+          "longitude": -73.565355396469
+        }
+      },
+      "location": {
+        "address": "150 St Catherine Rue W",
+        "address_extended": "Room 201C",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H2X 3Y2",
+        "region": "QC"
+      },
+      "name": "La Cage",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4adb6e29f964a520612721e3",
+          "name": "Complexe Desjardins"
+        }
+      },
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5b382fe666f3cd002c1e727d",
+      "categories": [
+        {
+          "id": 4,
+        "name": "Salads"
+        },
+        {
+        "id": 5,
+        "name": "Burgers"
+    }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/112349427_Q7C9PlJF7_y-7Q1vZUdBDXoFZgcdp884X48iWkpFRhI.jpg",
+      "chains": [],
+      "distance": 596,
+      "geocodes": {
+        "main": {
+          "latitude": 45.507021,
+          "longitude": -73.566403
+        }
+      },
+      "location": {
+        "address": "276 Sainte-Catherine Rue O",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Montreal",
+        "postcode": "H2X 2A1",
+        "region": "QC"
+      },
+      "name": "Lola Rosa",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b4e1626f964a5200ce126e3",
+      "categories": [
+        {
+          "id": 6,
+          "name": "Pizza"
+        },
+        {
+          "id": 4,
+          "name": "Salads"
+        },
+        {
+        "id": 2,
+        "name": "Noodles"
+      }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/24494050_wWmHTpToWPFUgG1psLA0P9IxiArNipjEDAYy5mfk2gU.jpg",
+      "chains": [],
+      "distance": 268,
+      "geocodes": {
+        "main": {
+          "latitude": 45.504009,
+          "longitude": -73.568213
+        }
+      },
+      "location": {
+        "address": "1223 rue du Square-Phillips",
+        "country": "CA",
+        "cross_street": "coin Sainte-Catherine",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3B 3E9",
+        "region": "QC"
+      },
+      "name": "Il Focolaio Pizza Resto",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b5f636ef964a52081b729e3",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Diner"
+        },
+        {
+          "id": 9,
+          "name": "Desserts"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/493547027_LzHqxOH-wURIR8qAZBwnQwCuSqwF0rSmDcN7AXi1cog.jpg",
+      "chains": [],
+      "distance": 507,
+      "geocodes": {
+        "main": {
+          "latitude": 45.49974684760275,
+          "longitude": -73.57314804727957
+        }
+      },
+      "location": {
+        "address": "1116 Sainte-Catherine Rue O",
+        "country": "CA",
+        "cross_street": "Peel",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3B 1H4",
+        "region": "QC"
+      },
+      "name": "Reuben's Deli Steaks Desserts",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "50f2f09719a963b2644cd5c2",
+      "categories": [
+        {
+          "id": 10,
+          "name": "Drinks"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/48815699_VXngkPey1hyJrkF7fMzpBYu6lywJ9O4LRc7RuPwtkVY.jpg",
+      "chains": [],
+      "distance": 634,
+      "geocodes": {
+        "main": {
+          "latitude": 45.50336946261605,
+          "longitude": -73.57504444945856
+        }
+      },
+      "location": {
+        "address": "904 Sherbrooke Rue O",
+        "country": "CA",
+        "cross_street": "entre McGill College & Mansfield",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3A 1G3",
+        "region": "QC"
+      },
+      "name": "Café Humble Lion",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4fe9e3d4e4b04b3061c70c7d",
+      "categories": [
+        {
+          "id": 3,
+          "name": "Sandwich"
+        }
+      ],
+      "photo": "https://res.cloudinary.com/ds4m4cban/image/upload/v1642243327/images/jimmieshop/Lunch-insolite-intro_bdzp1a.jpg",
+      "chains": [],
+      "distance": 225,
+      "geocodes": {
+        "main": {
+          "latitude": 45.50362305571647,
+          "longitude": -73.56813187599646
+        }
+      },
+      "location": {
+        "address": "606 Cathcart Rue",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3B 1K9",
+        "region": "QC"
+      },
+      "name": "Lunch Insolite",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b143242f964a520f59e23e3",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Diner",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/16851563_HOIy5GetxYZ6mDkf09i8u9tT8qEe3yp70ue5xxW_vz0.jpg",
+      "chains": [],
+      "distance": 710,
+      "geocodes": {
+        "main": {
+          "latitude": 45.49768544853375,
+          "longitude": -73.57437266013704
+        }
+      },
+      "location": {
+        "address": "1227 Rue de la Montagne",
+        "country": "CA",
+        "cross_street": "Ste-Catherine",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3G 1Z2",
+        "region": "QC"
+      },
+      "name": "Europea",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "52d731d011d2a0079c930734",
+      "categories": [
+        {
+          "id": 8,
+          "name": "Sushi"
+        }, 
+        {
+          "id": 1,
+        "name": "Rice"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/8080745_g3g8zk1zwy234YRC4_Gd65I-3J4Hy3qACaV4J3tG9ew.jpg",
+      "chains": [],
+      "distance": 399,
+      "geocodes": {
+        "main": {
+          "latitude": 45.505104900801804,
+          "longitude": -73.56886654760454
+        }
+      },
+      "location": {
+        "address": "1433 City Councillors Rue",
+        "country": "CA",
+        "cross_street": "city councillors",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H3A 2E4",
+        "region": "QC"
+      },
+      "name": "Biiru",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "554d75cd498e05b6d6adbe3e",
+      "categories": [
+        {
+          "id": 10,
+          "name": "Drinks"
+        },
+        {
+          "id": 20,
+          "name": "Diner"
+        }
+      ],
+      "photo": "https://fastly.4sqi.net/img/general/700x500/95241265_cpPCRfzgJwz2TXcT4Z7uWcUMk1XdmONzq8JqL9hbY90.jpg",
+      "chains": [],
+      "distance": 218,
+      "geocodes": {
+        "main": {
+          "latitude": 45.50218789145818,
+          "longitude": -73.56453833331517
+        }
+      },
+      "location": {
+        "address": "1035 Côte du Beaver Hall",
+        "country": "CA",
+        "cross_street": "",
+        "locality": "Montreal",
+        "neighborhood": [
+          "Downtown"
+        ],
+        "postcode": "H2Z 1S5",
+        "region": "QC"
+      },
+      "name": "Albert Bistro",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    }
+  ]
+}

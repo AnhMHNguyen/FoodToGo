@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Rice",
+        "icon": "rice_bowl"
+    },
+    {
+        "id": 2,
+        "name": "Noodles",
+        "icon": "noodle"
+    },
+    {
+        "id": 3,
+        "name": "Sandwich",
+        "icon": "sandwich"
+    },
+    {
+        "id": 4,
+        "name": "Salads",
+        "icon": "salad"
+    },
+    {
+        "id": 5,
+        "name": "Burgers",
+        "icon": "hamburger"
+    },
+    {
+        "id": 12,
+        "name": "Taco",
+        "icon": "taco"
+    },
+    {
+        "id": 6,
+        "name": "Pizza",
+        "icon": "pizza"
+    },
+    {
+        "id": 7,
+        "name": "Snacks",
+        "icon": "fries"
+    },
+    {
+        "id": 8,
+        "name": "Sushi",
+        "icon": "sushi"
+    },
+    {
+        "id": 13,
+        "name": "Seafood",
+        "icon": "seafood"
+    },
+    {
+        "id": 9,
+        "name": "Desserts",
+        "icon": "donut"
+    },
+    {
+        "id": 10,
+        "name": "Drinks",
+        "icon": "drink"
+    }
+]
