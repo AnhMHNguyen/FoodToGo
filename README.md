@@ -7,7 +7,5 @@
 
 
 <p float="middle">
-  <img src="https://res.cloudinary.com/ds4m4cban/image/upload/v1642476758/images/FoodToGo/Screenshot_20220117-183323_Expo_Go_2_qsuz79.jpg" width="300" />
-  <img src="https://res.cloudinary.com/ds4m4cban/image/upload/v1642476757/images/FoodToGo/Screenshot_20220117-180500_Expo_Go_2_io0loi.jpg" width="300" /> 
-  <img src="https://res.cloudinary.com/ds4m4cban/image/upload/v1642476757/images/FoodToGo/Screenshot_20220117-180505_Expo_Go_2_ftcby9.jpg" width="300" />
+  <img src="https://res.cloudinary.com/ds4m4cban/image/upload/v1642497269/images/FoodToGo/iMac_-_2_ls5oxa.png" width="800" />
 </p>
