@@ -7,5 +7,5 @@
 
 
 <p float="middle">
-  <img src="https://res.cloudinary.com/ds4m4cban/image/upload/v1642497269/images/FoodToGo/iMac_-_2_ls5oxa.png" width="800" />
+  <img src="https://res.cloudinary.com/ds4m4cban/image/upload/v1642497269/images/FoodToGo/iMac_-_2_ls5oxa.png" width="1200" />
 </p>
