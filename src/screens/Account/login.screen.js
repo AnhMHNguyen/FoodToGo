@@ -138,6 +138,16 @@ const LoginScreen = ({ navigation }) => {
             onPress={() => navigation.navigate("Register")}
           />
         </View>
+        <View
+          style={{
+            flexDirection: 'column',
+            marginTop: SIZES.padding*2,
+          }}
+        >
+          <Text style={{ color: COLORS.red, ...FONTS.h4 }}>Testing Email and Password:</Text>
+          <Text style={{ color: COLORS.red, ...FONTS.body3 }}>Email: test@gmail.com</Text>
+          <Text style={{ color: COLORS.red, ...FONTS.body3 }}>Password: test123</Text>
+        </View>
       </View>
     </AuthLayout>
   );
